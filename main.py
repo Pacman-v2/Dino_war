@@ -7,6 +7,7 @@ dino = functions.escolha()
 
 dinos.dinossauros.definicao(valor=dino)
 
+print("null")
 
 
 
